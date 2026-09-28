@@ -1,3 +1,5 @@
+<p align="center"><img src="playstore_icon_512.png" width="140" alt="Bolo Saathi icon"></p>
+
 # Bolo Saathi
 
 A phone that listens in your language and does the work for you.
