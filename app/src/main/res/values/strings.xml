@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bolo Saathi</string>
+    <string name="a11y_label">Bolo Saathi (phone chalane wala saathi)</string>
+    <string name="a11y_desc">Bolo Saathi aapke kehne par doosre apps mein tap aur type karta hai, screen ka text padh kar sunata hai, aur UPI par dhokhe wali request dikhne par chetavani deta hai. Payment ya message bhejne se pehle hamesha aapse poochhta hai. Ye kabhi PIN ya OTP nahi padhta.</string>
+</resources>
