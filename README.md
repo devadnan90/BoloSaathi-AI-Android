@@ -2,7 +2,7 @@
 
 # Bolo Saathi
 
-A phone that listens in your language and does the work for you.
+A phone that listens in your language and does the work for you
 
 Bolo Saathi is an Android app for people who own a smartphone but struggle with apps built in English. You press one big button and speak in Hindi, Bhojpuri or Maithili. The app understands what you want, does it inside your other apps, and tells you out loud when it is done.
 
